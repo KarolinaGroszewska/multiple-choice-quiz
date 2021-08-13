@@ -2,7 +2,7 @@ const myQuestions = [
   {
     title: "Question 1",
     question: "If you plan to work on weekends or public holidays, a prior written authorization by your supervisor is required and the BIOCON coordinator should be notified...<p>Select your answer then Confirm.</p>",
-    background: "<img src='./img/bg_slide1.jpg'>",
+    background: "<img src='./img/bg_slide1.jpeg'>",
     answers: {
       a: "true",
       b: "false"
